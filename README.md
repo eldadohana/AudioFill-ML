@@ -6,3 +6,6 @@ Key features and technologies:
 - Implemented a Convolutional Neural Network (CNN) to analyze spectrograms of pouring sounds.
 - Created a mobile app that records audio in real-time and processes it using the trained model.
 - Provides instant notifications to users when the desired fill level is reached.
+
+The model is being used on AudioFill iOS app
+https://github.com/eldadohana/AudioFill-iOS
